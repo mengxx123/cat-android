@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">萌小喵</string>
+    
+    <string name="share">Share</string>
+    <string name="feedback">Feedback</string>
+    <string name="double_mode">Double mode</string>
+    <string name="action_settings">Settings</string>
+    <string name="loading">Loading very hardly&#8230;</string>
+    <string name="back">Back</string>
+    <string name="save">Save</string>
+    <string name="save_path">Save path:</string>
+    <string name="title_ear">耳朵</string>
+    <string name="title_hair_color">头发颜色</string>
+    <string name="title_face_shape">脸形</string>
+    <string name="title_skin_color">肤色</string>
+    <string name="title_whiskers">胡须</string>
+    <string name="title_eye">眼睛</string>
+    <string name="title_eye_color">眼睛颜色</string>
+    <string name="title_mouth">嘴巴</string>
+    <string name="title_nose">鼻子</string>
+    <string name="title_feature">特征</string>
+    <string name="title_other">其他</string>
+    <string name="title_foot">脚</string>
+    <string name="title_hat">帽子</string>
+    <string name="title_hobby">爱好</string>
+    <string name="title_background">背景</string>
+    <string name="title_expression">表情</string>
+    <string name="title_bubble">气泡</string>
+    <string name="title_morph">Morph</string>
+    <string name="enter">Enter</string>
+    <string name="tip_max_bubble">Not more than 30 characters.</string>
+
+    <string-array name="title">
+        <item name="hair_style">发型</item>
+        <item name="hair_color">头发颜色</item>
+        <item name="face_shape">脸部轮廓</item>
+        <item name="skin_color">肤色</item>
+        <item name="eyebrow">眉毛</item>
+        <item name="eye">眼睛</item>
+        <item name="mouth">嘴巴</item>
+        <item name="nose">鼻子</item>
+        <item name="feature">特征</item>
+        <item name="glasses">眼睛</item>
+        <item name="clothes">Clothes</item>
+        <item name="hat">帽子</item>
+        <item name="hobby">爱好</item>
+        <item name="background">背景</item>
+        <item name="expression">表情</item>
+        <item name="bubble">气泡</item>
+        <item name="morph">Morph</item>
+    </string-array>
+
+</resources>

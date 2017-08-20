@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content" >
+
+    <solid android:color="@color/color_picture_bg" />
+
+    <stroke
+        android:width="1px"
+        android:color="@color/color_picture_border" />
+
+    <corners android:radius="0dp" />
+
+    <padding
+        android:bottom="1px"
+        android:left="1px"
+        android:right="1px"
+        android:top="1px" />
+
+</shape>

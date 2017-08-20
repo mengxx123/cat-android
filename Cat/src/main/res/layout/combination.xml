@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg01" >
+
+    <ImageView
+        android:id="@+id/hatView"
+        android:layout_width="300dp"
+        android:layout_height="300dp"
+        android:layout_gravity="top"
+        android:background="#00000000" />
+
+    <ImageView
+        android:id="@+id/glassesView"
+        android:layout_width="300dp"
+        android:layout_height="300dp"
+        android:layout_gravity="center"
+        android:background="#00000000" />
+
+    <ImageView
+        android:id="@+id/hairView"
+        android:layout_width="300dp"
+        android:layout_height="300dp"
+        android:layout_gravity="top"
+        android:background="#00000000" />
+
+    <ImageView
+        android:id="@+id/eyeView"
+        android:layout_width="300dp"
+        android:layout_height="300dp"
+        android:layout_gravity="center"
+        android:background="#00000000" />
+
+    <ImageView
+        android:id="@+id/eyebrowView"
+        android:layout_width="300dp"
+        android:layout_height="300dp"
+        android:layout_gravity="center"
+        android:background="#00000000" />
+
+    <ImageView
+        android:id="@+id/noseView"
+        android:layout_width="300dp"
+        android:layout_height="300dp"
+        android:layout_gravity="center"
+        android:background="#00000000" />
+
+    <ImageView
+        android:id="@+id/mouseView"
+        android:layout_width="300dp"
+        android:layout_height="300dp"
+        android:layout_gravity="center"
+        android:background="#00000000" />
+
+    <ImageView
+        android:id="@+id/clothesView"
+        android:layout_width="300dp"
+        android:layout_height="300dp"
+        android:layout_gravity="bottom"
+        android:background="#00000000" />
+
+    <ImageView
+        android:id="@+id/featureView"
+        android:layout_width="300dp"
+        android:layout_height="300dp"
+        android:layout_gravity="center"
+        android:background="#00000000" />
+
+    <ImageView
+        android:id="@+id/interestView"
+        android:layout_width="300dp"
+        android:layout_height="300dp"
+        android:layout_gravity="bottom"
+        android:background="#00000000" />
+
+    <ImageView
+        android:id="@+id/expressionView"
+        android:layout_width="300dp"
+        android:layout_height="300dp"
+        android:layout_gravity="center"
+        android:background="#00000000" />
+
+    <ImageView
+        android:id="@+id/bubbleView"
+        android:layout_width="300dp"
+        android:layout_height="300dp"
+        android:layout_gravity="center"
+        android:background="#00000000" />
+
+    <ImageView
+        android:id="@+id/faceView"
+        android:layout_width="300dp"
+        android:layout_height="300dp"
+        android:layout_gravity="center"
+        android:background="#00000000" />
+
+</FrameLayout>

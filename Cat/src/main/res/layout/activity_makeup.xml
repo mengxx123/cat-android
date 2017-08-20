@@ -1,0 +1,61 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/color_picture_bg"
+    android:orientation="vertical" >
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:stretchColumns="1" >
+
+        <TableRow
+            android:id="@+id/tableRow1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+
+            <Button
+                android:id="@+id/makeup_btnBack"
+                android:layout_width="70dp"
+                android:layout_height="30dp"
+                android:background="#00000000"
+                android:drawableLeft="@drawable/bt_back_selector"
+                android:text="返回"
+                android:textColor="@drawable/bt_text_selector"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/makeup_btnSave"
+                android:layout_width="70dp"
+                android:layout_height="30dp"
+                android:background="#00000000"
+                android:text="保存"
+                android:textColor="@drawable/bt_text_selector"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/makeup_btnShare"
+                android:layout_width="70dp"
+                android:layout_height="30dp"
+                android:background="#00000000"
+                android:text="分享"
+                android:textColor="@drawable/bt_text_selector"
+                android:textSize="20sp" />
+        </TableRow>
+    </TableLayout>
+
+    <com.cjh.cat.portrait.PortraitsView
+        android:id="@+id/portraitsView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1" />
+
+    <com.cjh.cat.table.ScrollTable
+        android:id="@+id/componentTable"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1" />
+
+</LinearLayout>

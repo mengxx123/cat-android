@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<color name="theme_color">#c8dfaa</color>
+	
+    <color name="color_bg_default">#EFEFF4</color>
+    <color name="color_bg_combination">#7BC3FD</color>
+    <color name="color_face_default">#F4CDA7</color>
+    <!-- <color name="color_face_default">#FEDCB7</color> -->
+    <color name="color_text_up">#0D84FF</color>
+    <color name="color_text_down">#B8DAFF</color>
+    <color name="color_picture_table_bg">#C8D9C5</color>
+    <color name="color_picture_bg">#EFEFF4</color>
+    <color name="color_picture_border">#C8D6C5</color>
+    <color name="color_picture_selected">#8DC304</color>
+    
+    <color name="hair_color_01">#282828</color>
+    <color name="hair_color_02">#340002</color>
+    <color name="hair_color_03">#000000</color>
+    <color name="hair_color_04">#3F3432</color>
+    <color name="hair_color_05">#BE7019</color>
+    <color name="hair_color_06">#A2352F</color>
+    <color name="hair_color_07">#8F4F0C</color>
+    <color name="hair_color_08">#415200</color>
+    <color name="hair_color_09">#33836D</color>
+    <color name="hair_color_10">#337583</color>
+    <color name="hair_color_11">#96829C</color>
+    <color name="hair_color_12">#F5C73C</color>
+    <color name="hair_color_13">#FFE374</color>
+    <color name="hair_color_14">#FFFFFF</color>
+    <color name="hair_color_15">#3E7E4E</color>
+    <color name="hair_color_16">#68B82E</color>
+    <color name="hair_color_17">#BFD000</color>
+    <color name="hair_color_18">#B386B8</color>
+    <color name="hair_color_19">#5BBFE4</color>
+    <color name="hair_color_20">#B9F0EF</color>
+    <color name="hair_color_21">#EE7119</color>
+    <color name="hair_color_22">#FA9595</color>
+    <color name="hair_color_23">#FF6057</color>
+    <color name="hair_color_24">#EA5F46</color>
+    <color name="hair_color_25">#EF4324</color>
+    
+    <color name="skin_color_01">#c8dfaa</color><!-- 绿色  -->
+    <color name="skin_color_02">#FFEFDF</color><!-- 白色 -->
+    <color name="skin_color_03">#554A34</color><!-- 黑色  -->
+    <color name="skin_color_04">#FFD9D0</color><!-- 粉红  -->
+    <color name="skin_color_05">#FEDCB7</color><!-- 肉色  -->
+    <color name="skin_color_06">#8cd3ce</color><!-- 蓝色  -->
+    <color name="skin_color_07">#f2d841</color><!-- 橙色 -->
+    <color name="skin_color_08">#ef7959</color><!-- 红色 -->
+    <color name="skin_color_09">#c363ce</color><!-- 紫色 -->
+
+	<color name="eye_color_01">#c8dfaa</color><!-- 绿色  -->
+    <color name="eye_color_02">#FFEFDF</color><!-- 白色 -->
+    <color name="eye_color_03">#554A34</color><!-- 黑色  -->
+</resources>
